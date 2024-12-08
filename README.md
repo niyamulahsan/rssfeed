@@ -35,4 +35,4 @@ npm start
 
 
 **Folder Structure**
-It is run from app.js file. config, migrations, models and seeders folder for database related folder. routes folder holds the route. provider folder has a swagger setup. middleware stores our errorhandling middleware and our modules folder has our module where has three file for serving the api (controller, route, validation). I also created jobs folder for schedule run. It has cron schedule which is run every 30 minute for checking new feed and insert into database if feed is new.
+- It is run from app.js file. config, migrations, models and seeders folder for database related folder. routes folder holds the route. provider folder has a swagger setup. middleware stores our errorhandling middleware and our modules folder has our module where has three file for serving the api (controller, route, validation). I also created jobs folder for schedule run. It has cron schedule which is run every 30 minute for checking new feed and insert into database if feed is new.
