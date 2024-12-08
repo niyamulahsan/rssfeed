@@ -1,0 +1,24 @@
+clientrss/node_modules
+noderss/node_modules
+
+# Logs
+clientrss/logs
+clientrss/*.log
+clientrss/npm-debug.log*
+clientrss/yarn-debug.log*
+clientrss/yarn-error.log*
+clientrss/pnpm-debug.log*
+clientrss/lerna-debug.log*
+
+clientrss/*.local
+
+# Editor directories and files
+clientrss/.vscode/*
+clientrss/!.vscode/extensions.json
+clientrss/.idea
+clientrss/.DS_Store
+clientrss/*.suo
+clientrss/*.ntvs*
+clientrss/*.njsproj
+clientrss/*.sln
+clientrss/*.sw?

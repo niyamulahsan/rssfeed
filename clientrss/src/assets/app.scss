@@ -1,0 +1,21 @@
+html, body, #app{
+  height: 100%;
+  background: #ecf0f1;
+}
+
+.mainbody{
+  min-height: calc(100% - 110px);
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: auto;
+  border-radius: 0;
+}
+
+footer{
+  padding: 15px;
+  background: #CDCDCD;
+}
+
+p{
+  font-size: 13px;
+}
